@@ -2,7 +2,7 @@
 
 In this project, I am trying to make a random quote generator in which a user can get good and valuable quotes and they can directly post it in the twitter application.
 
-### [Live Site](https://randomquotegenerator.netlify.app/)
+### [Live Site](https://randomquotegeneratorapp.netlify.app/)
 
 
 ## You can reach out 😊😊
