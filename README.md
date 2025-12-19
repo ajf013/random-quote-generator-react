@@ -1,16 +1,77 @@
-# React + Vite
+# Random Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Progressive Web App (PWA) built with **React** and **Vite** that generates random quotes in **English** and **Tamil**.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://randomquotegeneratorapp.netlify.app](https://randomquotegeneratorapp.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](https://raw.githubusercontent.com/ajf013/random-quote-generator-react/main/public/apple-touch-icon.png)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Multi-Language Support**: Get quotes in both English 🇬🇧 and Tamil 🇮🇳.
+- **Diverse Categories**:
+  - Love ❤️
+  - Sad 😢
+  - Happy 😊
+  - Motivation 💪
+  - Friendship 🤝
+  - Wedding 💍
+  - Marriage 💑
+  - Family: Sister 👧, Brother 👦, Father 👨, Mother 👩
+- **Dark/Light Mode**: Toggle between themes with a persistent preference saved in your browser.
+- **Glassmorphism UI**: Beautiful, modern aesthetic with animated cards.
+- **Copy to Clipboard**: Easily share your favorite quotes.
+- **PWA Support**: Installable as a native app on your mobile or desktop device.
+- **Offline Capable**: Works even without an internet connection (once cached).
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React, Vite
+- **Styling**: Vanilla CSS (Variables, Flexbox, Animations)
+- **Icons**: Semantic UI React, Custom SVGs
+- **Deployment**: Netlify
+
+## 🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ajf013/random-quote-generator-react.git
+   cd random-quote-generator-react
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Visit `http://localhost:5173` to view the app.
+
+## 📱 PWA
+
+This app is a fully functional Progressive Web App. You can install it on:
+- **Android**: Tap the menu (three dots) -> "Add to Home Screen" or "Install App".
+- **iOS**: Tap the "Share" button -> "Add to Home Screen".
+- **Desktop**: Click the install icon in the address bar (Chrome/Edge).
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ by [Francis Cruz](https://github.com/ajf013)
