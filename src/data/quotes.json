@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "text": "The best thing to hold onto in life is each other.",
+    "category": "love",
+    "lang": "en",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "id": 2,
+    "text": "Love is composed of a single soul inhabiting two bodies.",
+    "category": "love",
+    "lang": "en",
+    "author": "Aristotle"
+  },
+  {
+    "id": 3,
+    "text": "Where there is love there is life.",
+    "category": "love",
+    "lang": "en",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 4,
+    "text": "To love and be loved is to feel the sun from both sides.",
+    "category": "love",
+    "lang": "en",
+    "author": "David Viscott"
+  },
+  {
+    "id": 5,
+    "text": "Love is not about possession. Love is about appreciation.",
+    "category": "love",
+    "lang": "en",
+    "author": "Osho"
+  },
+  {
+    "id": 6,
+    "text": "காதல் என்பது இரு உடல்களில் வசிக்கும் ஒரு ஆன்மா.",
+    "category": "love",
+    "lang": "ta",
+    "author": "Aristotle"
+  },
+  {
+    "id": 7,
+    "text": "அன்பு எங்கே இருக்கிறதோ அங்கே வாழ்க்கை இருக்கிறது.",
+    "category": "love",
+    "lang": "ta",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 8,
+    "text": "காதல் என்பது கொடுத்துப் பெறுவதல்ல, உணர்ந்து வாழ்வது.",
+    "category": "love",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 9,
+    "text": "உண்மையான காதல் என்றும் மாறாது.",
+    "category": "love",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 10,
+    "text": "நீ என் இதயத்தின் துடிப்பு.",
+    "category": "love",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 11,
+    "text": "Tears come from the heart and not from the brain.",
+    "category": "sad",
+    "lang": "en",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "id": 12,
+    "text": "Sadness flies away on the wings of time.",
+    "category": "sad",
+    "lang": "en",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "id": 13,
+    "text": "Every heart has a pain. Only the way of expressing it is different.",
+    "category": "sad",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 14,
+    "text": "It hurts when you have someone in your heart but you can't have them in your arms.",
+    "category": "sad",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 15,
+    "text": "Breathing is hard. When you cry so much, it makes you realize that breathing is hard.",
+    "category": "sad",
+    "lang": "en",
+    "author": "David Levithan"
+  },
+  {
+    "id": 16,
+    "text": "கண்ணீர் இதயத்திலிருந்து வருகிறது, மூளையிலிருந்து அல்ல.",
+    "category": "sad",
+    "lang": "ta",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "id": 17,
+    "text": "காலம் எல்லா காயங்களையும் ஆற்றும்.",
+    "category": "sad",
+    "lang": "ta",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "id": 18,
+    "text": "ஒவ்வொரு இதயத்திற்கும் ஒரு வலி உண்டு.",
+    "category": "sad",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 19,
+    "text": "வலி இல்லாமல் வாழ்க்கை இல்லை.",
+    "category": "sad",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 20,
+    "text": "தனிமை ஒரு கொடிய நோய்.",
+    "category": "sad",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 21,
+    "text": "Happiness depends upon ourselves.",
+    "category": "happy",
+    "lang": "en",
+    "author": "Aristotle"
+  },
+  {
+    "id": 22,
+    "text": "Be happy for this moment. This moment is your life.",
+    "category": "happy",
+    "lang": "en",
+    "author": "Omar Khayyam"
+  },
+  {
+    "id": 23,
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "category": "happy",
+    "lang": "en",
+    "author": "Dalai Lama"
+  },
+  {
+    "id": 24,
+    "text": "The most important thing is to enjoy your life—to be happy—it's all that matters.",
+    "category": "happy",
+    "lang": "en",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "id": 25,
+    "text": "Smile, it implies that you are stronger than your problems.",
+    "category": "happy",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 26,
+    "text": "மகிழ்ச்சி நம்மில் தங்கியுள்ளது.",
+    "category": "happy",
+    "lang": "ta",
+    "author": "Aristotle"
+  },
+  {
+    "id": 27,
+    "text": "இந்த நேரத்திற்காக மகிழ்ச்சியாக இருங்கள். இந்த நேரமே உங்கள் வாழ்க்கை.",
+    "category": "happy",
+    "lang": "ta",
+    "author": "Omar Khayyam"
+  },
+  {
+    "id": 28,
+    "text": "மகிழ்ச்சி என்பது ஒரு பயணம், அது ஒரு இலக்கு அல்ல.",
+    "category": "happy",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 29,
+    "text": "புன்னகையே சிறந்த மருந்து.",
+    "category": "happy",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 30,
+    "text": "வாழ்க்கை வாழ்வதற்கே, கவலைப்படுவதற்கல்ல.",
+    "category": "happy",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 31,
+    "text": "Believe you can and you're halfway there.",
+    "category": "motivation",
+    "lang": "en",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 32,
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "category": "motivation",
+    "lang": "en",
+    "author": "Confucius"
+  },
+  {
+    "id": 33,
+    "text": "The only way to do great work is to love what you do.",
+    "category": "motivation",
+    "lang": "en",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 34,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "category": "motivation",
+    "lang": "en",
+    "author": "Sam Levenson"
+  },
+  {
+    "id": 35,
+    "text": "Your limitation—it's only your imagination.",
+    "category": "motivation",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 36,
+    "text": "முயற்சி திருவினையாக்கும்.",
+    "category": "motivation",
+    "lang": "ta",
+    "author": "Thiruvalluvar"
+  },
+  {
+    "id": 37,
+    "text": "நிறுத்தாமல் செல்லும் வரை, எவ்வளவு மெதுவாகச் செல்கிறீர்கள் என்பது முக்கியமல்ல.",
+    "category": "motivation",
+    "lang": "ta",
+    "author": "Confucius"
+  },
+  {
+    "id": 38,
+    "text": "வெற்றி என்பது நிரந்தரமல்ல, தோல்வி என்பது இறுதியல்ல.",
+    "category": "motivation",
+    "lang": "ta",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 39,
+    "text": "உன்னால் முடியும் என்று நம்பு.",
+    "category": "motivation",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 40,
+    "text": "கடின உழைப்பே வெற்றியின் திறவுகோல்.",
+    "category": "motivation",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 41,
+    "text": "A real friend is one who walks in when the rest of the world walks out.",
+    "category": "friendship",
+    "lang": "en",
+    "author": "Walter Winchell"
+  },
+  {
+    "id": 42,
+    "text": "Friendship is the only cement that will ever hold the world together.",
+    "category": "friendship",
+    "lang": "en",
+    "author": "Woodrow Wilson"
+  },
+  {
+    "id": 43,
+    "text": "True friendship comes when the silence between two people is comfortable.",
+    "category": "friendship",
+    "lang": "en",
+    "author": "David Tyson"
+  },
+  {
+    "id": 44,
+    "text": "A friend is someone who knows all about you and still loves you.",
+    "category": "friendship",
+    "lang": "en",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "id": 45,
+    "text": "Good friends are like stars. You don't always see them, but you know they're always there.",
+    "category": "friendship",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 46,
+    "text": "உண்மையான நண்பன் என்பவன் உலகம் உங்களை கைவிடும்போது உங்களுடன் வருபவன்.",
+    "category": "friendship",
+    "lang": "ta",
+    "author": "Walter Winchell"
+  },
+  {
+    "id": 47,
+    "text": "நட்பு என்பது வார்த்தைகளால் விவரிக்க முடியாத பந்தம்.",
+    "category": "friendship",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 48,
+    "text": "நல்ல நண்பர்கள் நட்சத்திரங்களைப் போன்றவர்கள்.",
+    "category": "friendship",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 49,
+    "text": "ஆபத்தில் உதவுபவனே உண்மையான நண்பன்.",
+    "category": "friendship",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 50,
+    "text": "நட்பு வாசம் வீசும் மலர் போன்றது.",
+    "category": "friendship",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 51,
+    "text": "A successful marriage requires falling in love many times, always with the same person.",
+    "category": "marriage",
+    "lang": "en",
+    "author": "Mignon McLaughlin"
+  },
+  {
+    "id": 52,
+    "text": "Marriage is a mosaic you build with your spouse. Millions of tiny moments that create your love story.",
+    "category": "marriage",
+    "lang": "en",
+    "author": "Jennifer Smith"
+  },
+  {
+    "id": 53,
+    "text": "திருமணம் என்பது ஆயிரம் காலத்து பயிர்.",
+    "category": "marriage",
+    "lang": "ta",
+    "author": "Proverb"
+  },
+  {
+    "id": 54,
+    "text": "இல்லறம் என்பது இனிமையான வரம்.",
+    "category": "marriage",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 55,
+    "text": "Two souls with but a single thought, two hearts that beat as one.",
+    "category": "wedding",
+    "lang": "en",
+    "author": "John Keats"
+  },
+  {
+    "id": 56,
+    "text": "Wishing you a lifetime of love and happiness.",
+    "category": "wedding",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 57,
+    "text": "திருமண நாள் வாழ்த்துக்கள்!",
+    "category": "wedding",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 58,
+    "text": "உங்கள் வாழ்க்கை என்றும் மகிழ்ச்சியாக இருக்க வாழ்த்துகிறேன்.",
+    "category": "wedding",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 59,
+    "text": "A sister can be seen as someone who is both ourselves and very much not ourselves - a special kind of double.",
+    "category": "sister",
+    "lang": "en",
+    "author": "Toni Morrison"
+  },
+  {
+    "id": 60,
+    "text": "அக்கா தங்கை பாசம் ஈடு இணையற்றது.",
+    "category": "sister",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 61,
+    "text": "Sometimes being a brother is even better than being a superhero.",
+    "category": "brother",
+    "lang": "en",
+    "author": "Marc Brown"
+  },
+  {
+    "id": 62,
+    "text": "அண்ணன் தம்பி பாசம் ஆழமானது.",
+    "category": "brother",
+    "lang": "ta",
+    "author": "Unknown"
+  },
+  {
+    "id": 63,
+    "text": "A father is someone you look up to no matter how tall you grow.",
+    "category": "father",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 64,
+    "text": "தந்தை சொல் மிக்க மந்திரம் இல்லை.",
+    "category": "father",
+    "lang": "ta",
+    "author": "Avvaiyar"
+  },
+  {
+    "id": 65,
+    "text": "Life doesn't come with a manual, it comes with a mother.",
+    "category": "mother",
+    "lang": "en",
+    "author": "Unknown"
+  },
+  {
+    "id": 66,
+    "text": "தாயிற் சிறந்த கோயிலுமில்லை.",
+    "category": "mother",
+    "lang": "ta",
+    "author": "Avvaiyar"
+  }
+]
